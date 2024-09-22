@@ -1,0 +1,5 @@
+CREATE TABLE tennis_match_data (
+date DATE,
+tournament VARCHAR(255),
+player_1 VARCHAR(255),
+player_2 VARCHAR(255),
